@@ -17,7 +17,7 @@ weekday2[2] = "Taco Time!";
 weekday2[3] = "Two more days to the weekend.";
 weekday2[4] = "The weekend is almost here...";
 weekday2[5] = "Weekend is here!";
-weekday2[6] = "End of the weekend already...";
+weekday2[6] = "Enjoy some College Football";
 
 var n = weekday[d.getDay()];
 var n2 = weekday2[date2.getDay()];
